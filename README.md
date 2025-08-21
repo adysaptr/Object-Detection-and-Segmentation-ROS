@@ -11,8 +11,7 @@
 - [Requirements](#-requirements)
 - [Documentation](#-documentation)
 
-## Description
-This project implements **object detection and segmentation** using the **YOLOv8** model integrated with **ROS Noetic**. It is designed to provide real-time object recognition and segmentation capabilities for robotics applications, leveraging ROS topics for data communication.
+
 
 ## ✨ Features
 - Real-time **object detection and segmentation** using YOLOv8.
@@ -41,6 +40,9 @@ pip install ultralytics
 ## 📚 Documentation
 ![Result](src/doc1.png)
 ![Result](src/doc2.png)
+
+## Description
+This project implements **object detection and segmentation** using the **YOLOv8** model integrated with **ROS Noetic**. It is designed to provide real-time object recognition and segmentation capabilities for robotics applications, leveraging ROS topics for data communication.
 
 ## 🙏 Thank You
 Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
