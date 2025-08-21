@@ -35,3 +35,8 @@ Before setting up this project, ensure you have the following installed:
 Install YOLOv8 with:
 ```bash
 pip install ultralytics
+```
+
+## 📚 Documentation
+![Result](src/doc1.png)
+![Result](src/doc2.png)
