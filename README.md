@@ -7,9 +7,9 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Documentation](#documentation)
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Documentation](#-documentation)
 
 ## Description
 This project implements **object detection and segmentation** using the **YOLOv8** model integrated with **ROS Noetic**. It is designed to provide real-time object recognition and segmentation capabilities for robotics applications, leveraging ROS topics for data communication.
