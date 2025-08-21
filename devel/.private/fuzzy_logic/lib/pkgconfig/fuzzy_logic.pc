@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/fuzzy_logic
+
+Name: fuzzy_logic
+Description: Description of fuzzy_logic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

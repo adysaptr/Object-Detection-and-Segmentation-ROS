@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/ACKERMAN/devel/.private/camera_data/setup.sh

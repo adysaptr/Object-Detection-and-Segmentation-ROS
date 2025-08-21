@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/camera_data
+
+Name: camera_data
+Description: Description of camera_data
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs cv_bridge

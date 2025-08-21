@@ -1,0 +1,8 @@
+sfm
+/home/jetson/ACKERMAN/devel/.private/sfm/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/sfm/lib/pkgconfig/sfm.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/sfm.pc
+/home/jetson/ACKERMAN/devel/.private/sfm/lib/sfm/sociall /home/jetson/ACKERMAN/devel/lib/sfm/sociall
+/home/jetson/ACKERMAN/devel/.private/sfm/lib/sfm/sfm.py /home/jetson/ACKERMAN/devel/lib/sfm/sfm.py
+/home/jetson/ACKERMAN/devel/.private/sfm/lib/sfm/cmake.lock /home/jetson/ACKERMAN/devel/lib/sfm/cmake.lock
+/home/jetson/ACKERMAN/devel/.private/sfm/share/sfm/cmake/sfmConfig-version.cmake /home/jetson/ACKERMAN/devel/share/sfm/cmake/sfmConfig-version.cmake
+/home/jetson/ACKERMAN/devel/.private/sfm/share/sfm/cmake/sfmConfig.cmake /home/jetson/ACKERMAN/devel/share/sfm/cmake/sfmConfig.cmake

@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lane_keeping_assist
+
+Name: lane_keeping_assist
+Description: Description of lane_keeping_assist
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs sensor_msgs geometry_msgs

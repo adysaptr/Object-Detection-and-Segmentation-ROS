@@ -1,0 +1,5 @@
+rosserial/rosserial_test
+/home/jetson/ACKERMAN/devel/.private/rosserial_test/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/rosserial_test/lib/pkgconfig/rosserial_test.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/rosserial_test.pc
+/home/jetson/ACKERMAN/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig-version.cmake /home/jetson/ACKERMAN/devel/share/rosserial_test/cmake/rosserial_testConfig-version.cmake
+/home/jetson/ACKERMAN/devel/.private/rosserial_test/share/rosserial_test/cmake/rosserial_testConfig.cmake /home/jetson/ACKERMAN/devel/share/rosserial_test/cmake/rosserial_testConfig.cmake

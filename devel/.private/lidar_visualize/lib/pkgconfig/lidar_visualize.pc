@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lidar_visualize
+
+Name: lidar_visualize
+Description: Description of lidar_visualize
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

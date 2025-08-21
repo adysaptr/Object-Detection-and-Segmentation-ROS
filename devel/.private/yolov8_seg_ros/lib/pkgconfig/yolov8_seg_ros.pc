@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros
+
+Name: yolov8_seg_ros
+Description: Description of yolov8_seg_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

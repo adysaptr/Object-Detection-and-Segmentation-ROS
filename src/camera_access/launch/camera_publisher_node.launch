@@ -1,0 +1,4 @@
+<launch>
+    <!-- Node Kamera -->
+    <node pkg="camera_access" type="camera_publisher_node" name="camera_publisher_node" output="screen" />
+</launch>

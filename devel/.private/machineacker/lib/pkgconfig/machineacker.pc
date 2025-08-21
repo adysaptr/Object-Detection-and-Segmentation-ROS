@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/machineacker
+
+Name: machineacker
+Description: Description of machineacker
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy roscpp std_msgs sensor_msgs

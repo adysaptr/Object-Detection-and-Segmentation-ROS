@@ -1,0 +1,7 @@
+fuzzy_logic
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/lib/pkgconfig/fuzzy_logic.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/fuzzy_logic.pc
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/lib/fuzzy_logic/fuzzy_logic_node.py /home/jetson/ACKERMAN/devel/lib/fuzzy_logic/fuzzy_logic_node.py
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/lib/fuzzy_logic/cmake.lock /home/jetson/ACKERMAN/devel/lib/fuzzy_logic/cmake.lock
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/share/fuzzy_logic/cmake/fuzzy_logicConfig.cmake /home/jetson/ACKERMAN/devel/share/fuzzy_logic/cmake/fuzzy_logicConfig.cmake
+/home/jetson/ACKERMAN/devel/.private/fuzzy_logic/share/fuzzy_logic/cmake/fuzzy_logicConfig-version.cmake /home/jetson/ACKERMAN/devel/share/fuzzy_logic/cmake/fuzzy_logicConfig-version.cmake

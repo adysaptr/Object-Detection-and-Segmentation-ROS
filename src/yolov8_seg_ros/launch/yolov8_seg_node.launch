@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="yolov8_seg_ros" type="yolov8_seg_node" name="yolov8_seg_node" output="screen" />
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lane_detection
+
+Name: lane_detection
+Description: Description of lane_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy cv_bridge std_msgs sensor_msgs cv_bridge

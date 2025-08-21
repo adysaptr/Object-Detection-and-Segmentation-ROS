@@ -1,0 +1,6 @@
+camera_data
+/home/jetson/ACKERMAN/devel/.private/camera_data/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/camera_data/lib/pkgconfig/camera_data.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/camera_data.pc
+/home/jetson/ACKERMAN/devel/.private/camera_data/lib/camera_data/camera_subscriber_node /home/jetson/ACKERMAN/devel/lib/camera_data/camera_subscriber_node
+/home/jetson/ACKERMAN/devel/.private/camera_data/share/camera_data/cmake/camera_dataConfig.cmake /home/jetson/ACKERMAN/devel/share/camera_data/cmake/camera_dataConfig.cmake
+/home/jetson/ACKERMAN/devel/.private/camera_data/share/camera_data/cmake/camera_dataConfig-version.cmake /home/jetson/ACKERMAN/devel/share/camera_data/cmake/camera_dataConfig-version.cmake

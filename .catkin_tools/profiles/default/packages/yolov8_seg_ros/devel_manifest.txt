@@ -1,0 +1,7 @@
+yolov8_seg_ros
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/lib/pkgconfig/yolov8_seg_ros.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/yolov8_seg_ros.pc
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/lib/yolov8_seg_ros/yolov8_seg_node /home/jetson/ACKERMAN/devel/lib/yolov8_seg_ros/yolov8_seg_node
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/share/yolov8_seg_ros/cmake/yolov8_seg_rosConfig.cmake /home/jetson/ACKERMAN/devel/share/yolov8_seg_ros/cmake/yolov8_seg_rosConfig.cmake
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/share/yolov8_seg_ros/cmake/yolov8_seg_rosConfig-version.cmake /home/jetson/ACKERMAN/devel/share/yolov8_seg_ros/cmake/yolov8_seg_rosConfig-version.cmake
+/home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/share/yolov8_seg_ros/cmake/yolov8_seg_ros-msg-paths.cmake /home/jetson/ACKERMAN/devel/share/yolov8_seg_ros/cmake/yolov8_seg_ros-msg-paths.cmake

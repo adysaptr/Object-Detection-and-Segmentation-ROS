@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/ACKERMAN/devel/.private/yolov8_seg_ros/setup.sh

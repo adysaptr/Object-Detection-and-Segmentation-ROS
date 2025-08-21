@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/ackerman
+
+Name: ackerman
+Description: Description of ackerman
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

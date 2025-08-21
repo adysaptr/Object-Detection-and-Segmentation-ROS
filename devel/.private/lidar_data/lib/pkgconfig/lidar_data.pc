@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lidar_data
+
+Name: lidar_data
+Description: Description of lidar_data
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs std_msgs

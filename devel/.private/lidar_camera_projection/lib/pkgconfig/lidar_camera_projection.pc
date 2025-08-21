@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lidar_camera_projection
+
+Name: lidar_camera_projection
+Description: Description of lidar_camera_projection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

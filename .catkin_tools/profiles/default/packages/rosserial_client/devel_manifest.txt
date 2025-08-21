@@ -1,0 +1,9 @@
+rosserial/rosserial_client
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/lib/pkgconfig/rosserial_client.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/rosserial_client.pc
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/lib/python3/dist-packages/rosserial_client/__init__.py /home/jetson/ACKERMAN/devel/lib/python3/dist-packages/rosserial_client/__init__.py
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/lib/rosserial_client/cmake.lock /home/jetson/ACKERMAN/devel/lib/rosserial_client/cmake.lock
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/lib/rosserial_client/make_library.py /home/jetson/ACKERMAN/devel/lib/rosserial_client/make_library.py
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/lib/rosserial_client/make_libraries /home/jetson/ACKERMAN/devel/lib/rosserial_client/make_libraries
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig.cmake /home/jetson/ACKERMAN/devel/share/rosserial_client/cmake/rosserial_clientConfig.cmake
+/home/jetson/ACKERMAN/devel/.private/rosserial_client/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake /home/jetson/ACKERMAN/devel/share/rosserial_client/cmake/rosserial_clientConfig-version.cmake

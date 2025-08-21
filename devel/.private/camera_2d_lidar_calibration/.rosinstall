@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jetson/ACKERMAN/devel/.private/camera_2d_lidar_calibration/setup.sh

@@ -1,0 +1,7 @@
+object_detection
+/home/jetson/ACKERMAN/devel/.private/object_detection/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/object_detection/lib/pkgconfig/object_detection.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/object_detection.pc
+/home/jetson/ACKERMAN/devel/.private/object_detection/lib/object_detection/cmake.lock /home/jetson/ACKERMAN/devel/lib/object_detection/cmake.lock
+/home/jetson/ACKERMAN/devel/.private/object_detection/lib/object_detection/object_detection_node.py /home/jetson/ACKERMAN/devel/lib/object_detection/object_detection_node.py
+/home/jetson/ACKERMAN/devel/.private/object_detection/share/object_detection/cmake/object_detectionConfig-version.cmake /home/jetson/ACKERMAN/devel/share/object_detection/cmake/object_detectionConfig-version.cmake
+/home/jetson/ACKERMAN/devel/.private/object_detection/share/object_detection/cmake/object_detectionConfig.cmake /home/jetson/ACKERMAN/devel/share/object_detection/cmake/object_detectionConfig.cmake

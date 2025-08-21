@@ -1,0 +1,8 @@
+machineacker
+/home/jetson/ACKERMAN/devel/.private/machineacker/cmake.lock /home/jetson/ACKERMAN/devel/./cmake.lock
+/home/jetson/ACKERMAN/devel/.private/machineacker/lib/pkgconfig/machineacker.pc /home/jetson/ACKERMAN/devel/lib/pkgconfig/machineacker.pc
+/home/jetson/ACKERMAN/devel/.private/machineacker/lib/machineacker/baca_encoder /home/jetson/ACKERMAN/devel/lib/machineacker/baca_encoder
+/home/jetson/ACKERMAN/devel/.private/machineacker/lib/machineacker/driver /home/jetson/ACKERMAN/devel/lib/machineacker/driver
+/home/jetson/ACKERMAN/devel/.private/machineacker/lib/machineacker/controller /home/jetson/ACKERMAN/devel/lib/machineacker/controller
+/home/jetson/ACKERMAN/devel/.private/machineacker/share/machineacker/cmake/machineackerConfig-version.cmake /home/jetson/ACKERMAN/devel/share/machineacker/cmake/machineackerConfig-version.cmake
+/home/jetson/ACKERMAN/devel/.private/machineacker/share/machineacker/cmake/machineackerConfig.cmake /home/jetson/ACKERMAN/devel/share/machineacker/cmake/machineackerConfig.cmake

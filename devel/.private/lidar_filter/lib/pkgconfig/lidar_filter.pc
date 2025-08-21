@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/lidar_filter
+
+Name: lidar_filter
+Description: Description of lidar_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

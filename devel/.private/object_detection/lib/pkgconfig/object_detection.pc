@@ -1,0 +1,8 @@
+prefix=/home/jetson/ACKERMAN/devel/.private/object_detection
+
+Name: object_detection
+Description: Description of object_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
