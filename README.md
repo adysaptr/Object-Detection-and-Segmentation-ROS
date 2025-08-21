@@ -6,7 +6,7 @@
 ![C++](https://img.shields.io/badge/C++-Programming-00599C?logo=cplusplus&logoColor=white)
 
 ## Table of Contents
-- [Features](#-description)
+- [Description](#description)
 - [Features](#-features)
 - [Requirements](#-requirements)
 - [Documentation](#-documentation)
