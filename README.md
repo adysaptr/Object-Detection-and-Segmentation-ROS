@@ -45,3 +45,8 @@ pip install ultralytics
 Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
 
 Created with 💻 by [Ady Saputra](https://github.com/adysaptr
+
+## 🙏 Thank You
+Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
+
+Created with 💻 by [Ady Saputra](https://github.com/adysaptr
