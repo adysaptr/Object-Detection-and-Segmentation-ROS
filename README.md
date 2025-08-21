@@ -40,3 +40,8 @@ pip install ultralytics
 ## 📚 Documentation
 ![Result](src/doc1.png)
 ![Result](src/doc2.png)
+
+## 🙏 Thank You
+Thank you for visiting this repository! If this project is useful, don't forget to give it a ⭐ so that more people can find it.
+
+Created with 💻 by [Ady Saputra](https://github.com/adysaptr
